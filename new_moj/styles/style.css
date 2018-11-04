@@ -1,0 +1,83 @@
+ h1 {
+	text-align: center;
+	color: white;
+	font-size: 50px;
+	margin: 60px;
+}
+body {
+	font-family: Open Sans;
+	background: linear-gradient(blue,white,yellow) ;
+}
+.img1 {
+	display: inline-block;
+	float:left;
+	width: 134px;
+	height: 130px;
+}
+.osnova {
+	width: 360px;
+	
+	margin: 30px;
+}
+.pidzagolovok {
+	margin: 15px 10px 10px 15px;
+	font-family: PT Sans;
+	color: blue;
+	font-size: 10px;
+}
+
+.blok1 {
+	margin: 0px 0px 20px 0px;
+	height: 130px;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.text1 {
+	height: 130px;
+	font-size: 9px;
+	width: 226px;
+	display: inline-block;
+	background: grey;
+	
+}
+.p1 {
+	margin: 0px 15px 20px 15px;
+	 }
+.p2 {
+	margin: 20px 0px 20px 15px;
+	 }
+.p3 {
+	margin: 24px 60px 15px 30px;
+	 }
+
+.text2 {
+	height: 130px;
+	font-size: 15px;
+	width: 360px;
+	
+} 
+.blok2 {
+	/*background-image: url("./images/foto1.jpg");*/
+	background: green;
+}
+/*.fa-history{
+	position: relative; 
+    top: -1rem; 
+    left: 10rem;
+	}*/
+.pozition1{
+	position: relative; 
+    top: -1rem; 
+    left: 10rem;
+	}
+.pozition2{
+	position: relative; 
+    top: -1rem; 
+    left: 15rem;
+	}
+.kraj-l{
+	float: left;
+}
+.kraj-r{
+	float: left;
+}
